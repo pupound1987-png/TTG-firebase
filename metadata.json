@@ -1,0 +1,7 @@
+{
+  "name": "Remix: FINAL!TTg v.5",
+  "description": "An enterprise-grade maintenance request system with Google Sheets integration and Telegram notifications.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
